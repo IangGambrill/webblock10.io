@@ -1,0 +1,62 @@
+.logo{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 213px;
+    width: 428px;
+    margin-top:  50px;
+    margin-left: 300px; 
+    background-color:red;
+}
+.pic{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 200px;
+    width: 410px;
+    margin-top: 6px;
+    margin-left: 10px; 
+    background-color: yellow;
+}
+.des{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 213px;
+    width: 428px;
+    margin-top:  120px;
+    margin-left: 300px; 
+    background-color:red;
+}
+.huge{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 70px;
+    width: 410px;
+    margin-top: 6px;
+    margin-left: 10px; 
+    background-color: yellow;
+}
+.play{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 70px;
+    width: 390px;
+    margin-top: 6px;
+    margin-left: 20px; 
+    background-color: yellow;
+}
+.bottom{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 250px;
+    width: 100%;
+    margin-top:  80px;
+    background-color:red;
+}
+.esrb{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 180px;
+    width: 500px;
+    margin-top: 20px;
+    margin-left: 260px; 
+    background-color: yellow;
+}
